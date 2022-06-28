@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ionic</string>
+
+    <string name="welcome">Welcome</string>
+    <string name="enjoy">Enjoy the code crafts App</string>
+    <string name="btn_sign_up">SIGN UP</string>
+    <string name="btn_sign_in">Login</string>
+</resources>
